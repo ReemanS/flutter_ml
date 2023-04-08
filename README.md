@@ -14,6 +14,7 @@ At its current state, the application has several limitations.
 
 ## Necessary Links:
 
+- [APK File download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ReemanS/flutter_ml/blob/master/assets/app-release.apk)
 - [Flask API Repository](https://github.com/ReemanS/flask-flutter-api) - This is where the driver code for the API is stored. Hosting is provided by [Render](https://render.com/)
 - [Python driver code - .py](<https://github.com/ReemanS/flutter_ml/blob/master/assets/number_classification_(flutter_%2B_ml).py>)
 - [Python driver code - .html](<https://github.com/ReemanS/flutter_ml/blob/master/assets/Number_Classification_(Flutter_%2B_ML).html>)

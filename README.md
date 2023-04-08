@@ -4,6 +4,9 @@ This is the repository for my Midterm Output for **CIT 209 - Integrative Program
 
 The application is a simple numerical digit detector, which attempts to predict a handwritten digit based off an image.
 
+![Test1](assets\test1.jpg)
+![Test4](assets\test4.jpg)
+
 It makes use of the [MNIST Dataset](http://yann.lecun.com/exdb/mnist/) to train a CNN model in predicting digits.
 
 At its current state, the application has several limitations.
